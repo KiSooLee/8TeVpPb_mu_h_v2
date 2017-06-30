@@ -6,4 +6,6 @@
 
 3. To correlate background two input files with same component is needed. Copyroot.sh is used to copy root files.
 
-4. Correlation is 
+4. dphi vs. deta distribution is ploted by Correl_sig.C and Correl_bkg.C
+
+5. By accumulate dphi vs. deta histograms for each bin total dphi vs. deta distribution is achieved. And |eta| < 2 is projected to fitted by fourier series.
